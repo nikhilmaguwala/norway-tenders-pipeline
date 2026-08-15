@@ -1,0 +1,79 @@
+localFile,sheet,headerRow,layoutName,targetMolecule,detectedColumns,missingRequiredColumns,extraUsefulColumns,candidateRows,existingParserSupported,recommendedAction
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx,1. Innhold,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx,2. Forklaring til kravspes.,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx,3. Omfang,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx,4. Krav til prod.,14,unknown layout,Axitinib,item_number|product_name,atc_code,,7,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx,Ark1,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx,Mal,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx,Forside,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx,Veiledning,4,pack-bearing price schedule,Axitinib,item_number|product_name|strength|pack_size|atc_code|supplier|packs_year,,strength|pack_size|supplier|packs_year,17,false,skip_non_pack_sheet
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx,Prisskjema,2,unknown layout,Axitinib,item_number|supplier|offered_gip,product_name|atc_code,supplier|offered_gip,196,true,use_existing_lis_parser
+Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx,Revisjoner,,unknown layout,Axitinib,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx,1. Innhold,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx,2. Forklaring til kravspes.,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx,3. Omfang,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx,4. Krav til prod.,14,unknown layout,Lenalidomide,item_number|product_name,atc_code,,7,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx,Ark1,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Mal,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Veiledning mal,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Forside,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Veiledning,4,unknown layout,Lenalidomide,product_name|strength|pack_size|atc_code|packs_year,item_number,strength|pack_size|packs_year,18,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Prisskjema,3,pack-bearing price schedule,Lenalidomide,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance,,strength|pack_size|supplier|offered_gip|active_substance,7,true,use_existing_lis_parser
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Revisjoner,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Oppslag,,unknown layout,Lenalidomide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx,Lister,18,pack-bearing price schedule,Lenalidomide,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance|packs_year,,strength|pack_size|supplier|offered_gip|packs_year|active_substance,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Mal,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Veiledning mal,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Forside,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Veiledning,4,unknown layout,Everolimus,product_name|strength|pack_size|atc_code|packs_year,item_number,strength|pack_size|packs_year,18,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Prisskjema,4,pack-bearing price schedule,Everolimus,item_number|product_name|strength|pack_size|supplier|offered_gip|max_price|atc_code|active_substance|packs_sold_col,,strength|pack_size|supplier|max_price|offered_gip|active_substance,10,true,use_existing_lis_parser
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Revisjoner,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Oppslag,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx,Lister,18,pack-bearing price schedule,Everolimus,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance|packs_year,,strength|pack_size|supplier|offered_gip|packs_year|active_substance,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx,1. Innhold,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx,2. Forklaring til kravspes.,16,unknown layout,Everolimus,item_number|supplier,product_name|atc_code,supplier,1,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx,3. Omfang,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx,4. Krav til prod.,14,unknown layout,Everolimus,item_number,product_name|atc_code,,25,false,skip_non_pack_sheet
+Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx,Lister,,unknown layout,Everolimus,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Mal,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Veiledning mal,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Forside,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Veiledning,4,unknown layout,Anagrelide,product_name|strength|pack_size|atc_code|packs_year,item_number,strength|pack_size|packs_year,18,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Prisskjema,3,unknown layout,Anagrelide,product_name|strength|pack_size|packs_year|packs_sold_col,item_number|atc_code,strength|pack_size|packs_year,7,true,use_existing_lis_parser
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Revisjoner,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Oppslag,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx,Lister,18,pack-bearing price schedule,Anagrelide,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance|packs_year,,strength|pack_size|supplier|offered_gip|packs_year|active_substance,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,1. Innhold,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,2. Forklaring til kravspes.,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,3. Anskaffelsen,7,unknown layout,Anagrelide,atc_code|active_substance|product_name,item_number,active_substance,1,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,4. Krav overordnet nivå,,unknown layout,Anagrelide,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,5. Krav til prod.,26,unknown layout,Anagrelide,item_number|product_name,atc_code,,21,false,skip_non_pack_sheet
+Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx,Lister,13,unknown layout,Anagrelide,atc_code|active_substance|product_name,item_number,active_substance,52,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,1. Innhold,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,2. Forklaring til kravspes.,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,3. Anskaffelsen,7,unknown layout,Paliperidone,atc_code|active_substance|product_name,item_number,active_substance,148,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,4. Krav til lev.,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,5. Krav til prod.,27,unknown layout,Paliperidone,item_number|product_name,atc_code,,31,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx,Lister,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Mal,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Veiledning mal,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Forside,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Veiledning,4,pack-bearing price schedule,Paliperidone,item_number|product_name|strength|pack_size|atc_code|supplier|packs_year,,strength|pack_size|supplier|packs_year,17,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Prisskjema,2,unknown layout,Paliperidone,item_number|supplier|offered_gip,product_name|atc_code,supplier|offered_gip,617,true,use_existing_lis_parser
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Revisjoner,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Oppslag,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx,Lister,18,pack-bearing price schedule,Paliperidone,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance|packs_year,,strength|pack_size|supplier|offered_gip|packs_year|active_substance,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Mal,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Veiledning mal,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Forside,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Veiledning,4,unknown layout,Paliperidone,product_name|strength|pack_size|atc_code|packs_year,item_number,strength|pack_size|packs_year,18,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Prisskjema,3,unknown layout,Paliperidone,product_name|strength|pack_size|packs_year|packs_sold_col,item_number|atc_code,strength|pack_size|packs_year,17,true,use_existing_lis_parser
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Revisjoner,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Oppslag,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx,Lister,18,pack-bearing price schedule,Paliperidone,item_number|product_name|strength|pack_size|supplier|offered_gip|atc_code|active_substance|packs_year,,strength|pack_size|supplier|offered_gip|packs_year|active_substance,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,1. Innhold,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,2. Forklaring til kravspes.,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,3. Anskaffelsen,7,unknown layout,Paliperidone,atc_code|active_substance|product_name,item_number,active_substance,1,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,4. Krav til lev.,,unknown layout,Paliperidone,,item_number|product_name|atc_code,,0,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,5. Krav til prod.,26,unknown layout,Paliperidone,item_number|product_name,atc_code,,35,false,skip_non_pack_sheet
+Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx,Lister,13,unknown layout,Paliperidone,atc_code|active_substance|product_name,item_number,active_substance,65,false,skip_non_pack_sheet

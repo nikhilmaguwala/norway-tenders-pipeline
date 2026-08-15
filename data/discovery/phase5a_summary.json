@@ -1,0 +1,505 @@
+{
+  "phase": "5A",
+  "files_validated": [
+    {
+      "local_file": "Axitinib__LIS_2207_Oncology/LIS 2207 - Konkurransebestemmelser a\u030apen anbudskonkurranse.pdf",
+      "filename": "LIS 2207 - Konkurransebestemmelser a\u030apen anbudskonkurranse.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 388235,
+      "sha256": "94db2aaecd1750891dfd775ccbe887fdd9c9d61878430ba097c3bfa73df94aed",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx",
+      "filename": "LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 65919,
+      "sha256": "1ca065592e59eef38ddf1cec4ab1f97a490070161feffd708ca6a8bcc064d0c1",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx",
+      "filename": "LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 164295,
+      "sha256": "486f9e7680e35d12bda807e3e606456f986ae3eb2ea5bc0dad767f59251cb045",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx",
+      "filename": "LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 64102,
+      "sha256": "d2644606414843eaf0731f6b0a05c6812d9b97d22ebdd12e3ea1933a69da5749",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx",
+      "filename": "LIS 2234 Vedlegg 03 Prisskjema.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 165087,
+      "sha256": "8ae5601e07748f775695a675aa696d3d4e6e256d1f55ed99e0e5ce4e2d09d789",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx",
+      "filename": "2632a Bilag 2 Prisskjema.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 100757,
+      "sha256": "1783360633cdfae2c4bb64e02fc7158daa09962fcbe680e47c7304af49af55ba",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx",
+      "filename": "2632a Bilag 3 Kravspesifikasjon.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 60804,
+      "sha256": "e0c93b418dc8c262186b52eca78bb985d51d34a34626924b63ce8487519b5e09",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Everolimus__2632a/2632a Konkurransebestemmelser.pdf",
+      "filename": "2632a Konkurransebestemmelser.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 358476,
+      "sha256": "ed5ebfbe6fb530d07f27963b7f339318e8d20ff077c3fafb2c854b2e65d77cdc",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx",
+      "filename": "2507gj-1 Bilag 2 Prisskjema.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 122213,
+      "sha256": "dc2beaddcdd15687aa3fa60e282af705e3cd7671e3a4bd28930031a23b4ad6aa",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx",
+      "filename": "2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 82190,
+      "sha256": "b14750773f3f791d19342d520fe4d8af6bf1b901ac410c382f5ee89807dccf79",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Anagrelide__2507gj-1/2507gj-1 Konkurransebestemmelser Anagrelid.pdf",
+      "filename": "2507gj-1 Konkurransebestemmelser Anagrelid.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 443309,
+      "sha256": "8fe7326a0a82857c01f7b6cc99a5c2d8e916fa0f08038efd0fa0684acc441c68",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Anagrelide__2507gj-1/2507gj-1 Rammeavtale Anagrelid.pdf",
+      "filename": "2507gj-1 Rammeavtale Anagrelid.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 591367,
+      "sha256": "1907694d0450f2d132e700430f4fb7a700c29bedfefed6421f3d931653936e4a",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__LIS_2301d/2301d Konkurransebestemmelser.pdf",
+      "filename": "2301d Konkurransebestemmelser.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 308146,
+      "sha256": "890c4da67ec832fb5421fd0f15b99196ef68be10cb87a3ea0e98f180bc0b60f4",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx",
+      "filename": "2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 94784,
+      "sha256": "573e210d8078187463bfc3163b7ec0c5ab078b0097f35e67a2ce570bd619d88b",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx",
+      "filename": "2301d Vedlegg 03 Prisskjema legem versj1.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 202761,
+      "sha256": "9e14729d4fdd5488a1f8dd5b9bd848cecea64b1c853309fef91db030f2fc7326",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__LIS_2301d/2301d Vedlegg 04 Rammeavtale.pdf",
+      "filename": "2301d Vedlegg 04 Rammeavtale.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 343314,
+      "sha256": "a31806fdcb0c59c76482bcc224cd5d3c1581a4bfd994269dbfb3b25a4780abfd",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx",
+      "filename": "2601c_Bilag_2_Prisskjema.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 97738,
+      "sha256": "768f0840664658cac471b481da1ea9b9b19c8eb661e78b9e6835ee5921798c33",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx",
+      "filename": "2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx",
+      "extension": "xlsx",
+      "detected_type": "xlsx",
+      "file_size": 83066,
+      "sha256": "acde0fc47ce4ef7ac3d82635a4d304d1545a35f19ed8d0d87cd1e28576b8b381",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__2601c/2601c_Bilag_8_Endringer_i_eller_tillegg_til_rammeavtalene.docx",
+      "filename": "2601c_Bilag_8_Endringer_i_eller_tillegg_til_rammeavtalene.docx",
+      "extension": "docx",
+      "detected_type": "docx",
+      "file_size": 61862,
+      "sha256": "84668967f74d968be598752f5f00c4a04a8940a55e046143ceaaacaf18765a2f",
+      "is_valid": true,
+      "has_embedded_text": false,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__2601c/2601c_Konkurransebestemmelser.pdf",
+      "filename": "2601c_Konkurransebestemmelser.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 430861,
+      "sha256": "9c9d5955212850fdfd2575dffc7201aa8adb549d1f546cd349173c0cb4081724",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    },
+    {
+      "local_file": "Paliperidone__2601c/2601c_Rammeavtale.pdf",
+      "filename": "2601c_Rammeavtale.pdf",
+      "extension": "pdf",
+      "detected_type": "pdf",
+      "file_size": 583256,
+      "sha256": "32a10d75504ea2d4afd17414e768a5a744d0c61706f51dffa042ff2d9b2a4684",
+      "is_valid": true,
+      "has_embedded_text": true,
+      "validation_warning": ""
+    }
+  ],
+  "file_count": 21,
+  "valid_count": 21,
+  "invalid_count": 0,
+  "sources_row_count": 30,
+  "molecule_confirmation": {
+    "Axitinib": {
+      "explicit_name_confirmed": false,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 196,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false,
+      "evidence_levels": [
+        "brand_only",
+        "document_atc"
+      ],
+      "axitinib_confirmation": {
+        "by_axitinib_name": false,
+        "by_L01EK01": true,
+        "by_L01XE17": false,
+        "by_inlyta_only": false,
+        "no_confirmation": false,
+        "lis_2207_confirms_via": "L01EK01_and_Inlyta_brand"
+      }
+    },
+    "Everolimus": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 25,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": true,
+      "exact_price_type": "max_aip",
+      "parser_supported": true,
+      "parser_adapter_required": false,
+      "evidence_levels": [
+        "document_atc",
+        "document_name"
+      ],
+      "axitinib_confirmation": {}
+    },
+    "Lenalidomide": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 18,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false,
+      "evidence_levels": [
+        "document_atc",
+        "document_name"
+      ],
+      "axitinib_confirmation": {}
+    },
+    "Anagrelide": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 52,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false,
+      "evidence_levels": [
+        "document_atc",
+        "document_name"
+      ],
+      "axitinib_confirmation": {}
+    },
+    "Paliperidone": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 617,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false,
+      "evidence_levels": [
+        "document_atc",
+        "document_name"
+      ],
+      "axitinib_confirmation": {}
+    }
+  },
+  "candidate_pack_rows_by_molecule": {
+    "Axitinib": 196,
+    "Everolimus": 25,
+    "Lenalidomide": 18,
+    "Anagrelide": 52,
+    "Paliperidone": 617
+  },
+  "parser_layouts_detected": [
+    "pack-bearing price schedule",
+    "unknown layout"
+  ],
+  "parser_support_by_workbook": {
+    "Everolimus__2632a/2632a Bilag 3 Kravspesifikasjon.xlsx": "false",
+    "Lenalidomide__LIS_2234/LIS 2234 Vedlegg 02 Kravspesifikasjon.xlsx": "false",
+    "Paliperidone__LIS_2301d/2301d Vedlegg 02 Kravspesifikasjon versj3.xlsx": "false",
+    "Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx": "true",
+    "Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 02 Kravspesifikasjon.xlsx": "false",
+    "Lenalidomide__LIS_2234/LIS 2234 Vedlegg 03 Prisskjema.xlsx": "true",
+    "Paliperidone__2601c/2601c_Bilag_2_Prisskjema.xlsx": "true",
+    "Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx": "true",
+    "Paliperidone__2601c/2601c_Bilag_3_Kravspesifikasjon_Paloperidon.xlsx": "false",
+    "Anagrelide__2507gj-1/2507gj-1 Bilag 3 Kravspesifikasjon Anagrelid.xlsx": "false",
+    "Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx": "true",
+    "Anagrelide__2507gj-1/2507gj-1 Bilag 2 Prisskjema.xlsx": "true"
+  },
+  "parser_adapters_required": [],
+  "field_availability_by_molecule": {
+    "Axitinib": {
+      "explicit_name_confirmed": false,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 196,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false
+    },
+    "Everolimus": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 25,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": true,
+      "exact_price_type": "max_aip",
+      "parser_supported": true,
+      "parser_adapter_required": false
+    },
+    "Lenalidomide": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 18,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false
+    },
+    "Anagrelide": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 52,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false
+    },
+    "Paliperidone": {
+      "explicit_name_confirmed": true,
+      "atc_confirmed": true,
+      "pack_bearing_rows_found": true,
+      "candidate_pack_row_count": 617,
+      "item_numbers_available": true,
+      "product_names_available": true,
+      "strengths_available": true,
+      "pack_sizes_available": true,
+      "supplier_available": true,
+      "volume_available": true,
+      "price_available": false,
+      "exact_price_type": "offered_gip_not_max_price",
+      "parser_supported": true,
+      "parser_adapter_required": false
+    }
+  },
+  "missing_evidence": {
+    "Axitinib": [
+      "name"
+    ],
+    "Everolimus": [],
+    "Lenalidomide": [],
+    "Anagrelide": [],
+    "Paliperidone": []
+  },
+  "defensible_row_estimate": {
+    "low": 17,
+    "high": 51,
+    "likely_in_range_40_120": true
+  },
+  "value_allocation_risks": [
+    "Paliperidone notice 682047-2022 total NOK 14,671,946 is multi-molecule; do not assign to Paliperidone alone",
+    "Offered GIP must never map to maxPrice",
+    "LIS 2207 oncology umbrella covers many molecules; allocate only Axitinib-attributed rows",
+    "Everolimus tender 2632a includes mycophenolic acid; filter by ATC/name"
+  ],
+  "linkage_needs_review": [],
+  "paliperidone_safety_context": {
+    "noticeId": "682047-2022",
+    "preserved_notice_total_nok": 14671946,
+    "do_not_allocate_notice_total_to_molecule": true,
+    "known_facts": [
+      "Paliperidon",
+      "N05AX13",
+      "lot 90",
+      "low-dose injection",
+      "Nordic Pill AB",
+      "award 2022-12-02",
+      "direct award"
+    ]
+  },
+  "axitinib_evidence": {
+    "by_axitinib_name": false,
+    "by_L01EK01": true,
+    "by_L01XE17": false,
+    "by_inlyta_only": false,
+    "no_confirmation": false,
+    "lis_2207_confirms_via": "L01EK01_and_Inlyta_brand"
+  }
+}

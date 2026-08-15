@@ -1,0 +1,10 @@
+procedureKey,canonicalNoticeId,awardNoticeId,productMolecule,awardStage,awardedSupplierRaw,awardedValueRaw,currency,targetScope,linkageEvidence,mappedSupplier,mappedValue,mappingDecision,rejectionReason
+LIS2207,196990-2022,196990-2022,Axitinib,award_notice,,,NOK,2021/1727,canonical procedure,,,rejected,No award supplier or value in cached notice
+LIS2234,300984-2021,335380-2021,Lenalidomide,no_award_published,,,NOK,LIS 2234,Phase 4B lifecycle audit; LIS 2234 award notice,,,rejected,Award notice contains NO_AWARDED_CONTRACT; no concluded winner/value
+LIS2234,300984-2021,48506-2021,Lenalidomide,award_notice,,,NOK,LIS 2234,lifecycle related notice,,,rejected,No award supplier or value in cached notice
+LIS2234,300984-2021,147880-2021,Lenalidomide,award_notice,,,NOK,LIS 2234,lifecycle related notice,,,rejected,No award supplier or value in cached notice
+LIS2234,300984-2021,300984-2021,Lenalidomide,award_notice,,,NOK,LIS 2234,canonical procedure,,,rejected,No award supplier or value in cached notice
+2632a,404973-2025,404973-2025,Everolimus,award_notice,,,NOK,2025/50837,canonical procedure,,,rejected,No award supplier or value in cached notice
+2507gj-1,244859-2024,244859-2024,Anagrelide,award_notice,,,NOK,2507gj-1,canonical procedure,,,rejected,No award supplier or value in cached notice
+LIS2301D,682047-2022,682047-2022,Paliperidone,prospective_veat_supplier,Nordic Pill AB,14671946.0,NOK,2022/227,canonical procedure,,,rejected,Prospective VEAT multi-lot supplier mention; insufficient for concluded Paliperidone award
+2601c,434619-2026,434619-2026,Paliperidone,award_notice,,,NOK,2601c,canonical procedure,,,rejected,No award supplier or value in cached notice

@@ -1,0 +1,26 @@
+molecules:
+  Axitinib:
+    names: [axitinib]
+    discovery_brands: [inlyta]
+    atc_current: [L01EK01]
+    atc_historical: [L01XE17]
+
+  Everolimus:
+    names: [everolimus]
+    atc_current: [L01EG02, L04AH02]
+    atc_historical: []
+
+  Lenalidomide:
+    names: [lenalidomide, lenalidomid]
+    atc_current: [L04AX04]
+    atc_historical: []
+
+  Anagrelide:
+    names: [anagrelide, anagrelid]
+    atc_current: [L01XX35]
+    atc_historical: [B01AC14]
+
+  Paliperidone:
+    names: [paliperidone, paliperidon]
+    atc_current: [N05AX13]
+    atc_historical: []

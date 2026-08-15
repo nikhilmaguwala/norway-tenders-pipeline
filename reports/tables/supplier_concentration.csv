@@ -1,0 +1,12 @@
+recordType,molecule,supplier,observedVolume,observedVolumeShare,packRows,strengths,rankWithinMolecule,supplierCount,topSupplierObservedShare,HHI,volumeExcludedFromSupplierAnalysis,concentrationCoveragePct
+supplier_detail,Axitinib,Pfizer Norge AS,1175.0,1.0,4,4,1,,,,,
+supplier_detail,Lenalidomide,Celgene AS,7188.0,1.0,7,7,1,,,,,
+supplier_detail,Paliperidone,Amdipharm Limited,5024.0,0.5715,4,4,1,,,,,
+supplier_detail,Paliperidone,Janssen-Cilag AS,3767.0,0.4285,7,4,2,,,,,
+supplier_detail,Paliperidone,Orifarm AS,0.0,0.0,1,1,3,,,,,
+supplier_detail,Paliperidone,Zentiva Denmark ApS,0.0,0.0,4,4,4,,,,,
+molecule_summary,Anagrelide,,0.0,,6,1,,0,,,0.0,0.0
+molecule_summary,Axitinib,,1175.0,,4,4,,1,1.0,1.0,0.0,100.0
+molecule_summary,Everolimus,,0.0,,6,5,,0,,,0.0,0.0
+molecule_summary,Lenalidomide,,7188.0,,7,7,,1,1.0,1.0,0.0,100.0
+molecule_summary,Paliperidone,,8791.0,,18,5,,4,0.5715,0.51,50.0,99.4

@@ -1,0 +1,13 @@
+url,accessClass,httpStatus,contentType,contentLength,fileSignature,reason
+https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0,login_wall,403,text/html; charset=UTF-8,0,,HTTP 403 on Mercell file URL
+https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0,login_wall,403,text/html; charset=UTF-8,0,,HTTP 403 on Mercell file URL
+https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0,login_wall,403,text/html; charset=UTF-8,0,,HTTP 403 on Mercell file URL
+https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0,login_wall,403,text/html; charset=UTF-8,0,,HTTP 403 on Mercell file URL
+https://permalink.mercell.com/176511702.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/197314815.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/189521024.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/191804672.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/165576108.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/162989237.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/151647056.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page
+https://permalink.mercell.com/151667350.aspx,public_landing_page,200,text/html; charset=utf-8,2048,0d0a0d0a3c21444f,Procurement portal landing page

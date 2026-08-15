@@ -1,0 +1,165 @@
+{
+  "axitinib_queries_executed": 21,
+  "axitinib_candidate_notices": 118,
+  "axitinib_tender_families": [
+    "2021/1470",
+    "2022/15080",
+    "2022/1544",
+    "2022/230",
+    "2022/235",
+    "2023/1044",
+    "2023/1409",
+    "2023/17956",
+    "2023/17957",
+    "2023/18083",
+    "2023/503",
+    "2023/709",
+    "2024/1125",
+    "2024/1415",
+    "2024/153",
+    "2024/28597",
+    "2024/32718",
+    "2024/34003",
+    "2024/413",
+    "2024/719",
+    "2025/37203",
+    "2025/39159",
+    "2025/40392",
+    "2025/40909",
+    "2025/44474",
+    "2025/48763",
+    "2025/58879",
+    "2025/61818",
+    "24/02126",
+    "76951",
+    "77449",
+    "LIS2107G",
+    "LIS2107J",
+    "LIS2207"
+  ],
+  "axitinib_confirmation": "document_dependent_no_notice_confirmation",
+  "axitinib_errors": [],
+  "accepted_evidence_level_counts": {
+    "document_name": 44,
+    "document_atc": 1
+  },
+  "procedures_by_molecule": {
+    "Everolimus": 1,
+    "Lenalidomide": 1,
+    "Anagrelide": 1,
+    "Paliperidone": 3
+  },
+  "language_duplicate_count": 27,
+  "lifecycle_related_count": 44,
+  "candidate_counts_before": {
+    "accepted": 45,
+    "login_wall": 15,
+    "rejected": 4
+  },
+  "candidate_counts_after_audit": {
+    "accepted": 18,
+    "login_wall": 15,
+    "rejected": 4,
+    "needs_review": 27
+  },
+  "document_access_counts": {
+    "public_landing_page": 8,
+    "login_wall": 4
+  },
+  "downgrade_examples": [
+    {
+      "noticeId": "335380-2021",
+      "targetMolecule": "Lenalidomide",
+      "title": "LIS 2234 Lenalidomide",
+      "evidenceLevel": "document_name",
+      "originalDecision": "accepted",
+      "auditedDecision": "needs_review",
+      "auditReason": "Non-canonical duplicate within procedure; prefer 300984-2021"
+    },
+    {
+      "noticeId": "147880-2021",
+      "targetMolecule": "Lenalidomide",
+      "title": "LIS 2234 Lenalidomid Prior Information Notice",
+      "evidenceLevel": "document_name",
+      "originalDecision": "accepted",
+      "auditedDecision": "needs_review",
+      "auditReason": "Non-canonical duplicate within procedure; prefer 300984-2021"
+    },
+    {
+      "noticeId": "48506-2021",
+      "targetMolecule": "Lenalidomide",
+      "title": "LIS 2234 Lenalidomid Prior Information Notice",
+      "evidenceLevel": "document_name",
+      "originalDecision": "accepted",
+      "auditedDecision": "needs_review",
+      "auditReason": "Non-canonical duplicate within procedure; prefer 300984-2021"
+    },
+    {
+      "noticeId": "335380-2021",
+      "targetMolecule": "Lenalidomide",
+      "title": "LIS 2234 Lenalidomide",
+      "evidenceLevel": "document_name",
+      "originalDecision": "accepted",
+      "auditedDecision": "needs_review",
+      "auditReason": "Non-canonical duplicate within procedure; prefer 300984-2021"
+    },
+    {
+      "noticeId": "147880-2021",
+      "targetMolecule": "Lenalidomide",
+      "title": "LIS 2234 Lenalidomid Prior Information Notice",
+      "evidenceLevel": "document_name",
+      "originalDecision": "accepted",
+      "auditedDecision": "needs_review",
+      "auditReason": "Non-canonical duplicate within procedure; prefer 300984-2021"
+    }
+  ],
+  "recommended_fetch_queue": [
+    {
+      "targetMolecule": "Everolimus",
+      "procedureKey": "LIS",
+      "canonicalNoticeId": "404973-2025",
+      "awardNoticeId": NaN,
+      "priority": "medium",
+      "reason": "Canonical pack-bearing notice from procedure summary"
+    },
+    {
+      "targetMolecule": "Lenalidomide",
+      "procedureKey": "LIS2234",
+      "canonicalNoticeId": "300984-2021",
+      "awardNoticeId": "335380-2021",
+      "priority": "medium",
+      "reason": "Canonical pack-bearing notice from procedure summary"
+    },
+    {
+      "targetMolecule": "Anagrelide",
+      "procedureKey": "LIS",
+      "canonicalNoticeId": "244859-2024",
+      "awardNoticeId": NaN,
+      "priority": "medium",
+      "reason": "Canonical pack-bearing notice from procedure summary"
+    },
+    {
+      "targetMolecule": "Paliperidone",
+      "procedureKey": "LIS",
+      "canonicalNoticeId": "434619-2026",
+      "awardNoticeId": NaN,
+      "priority": "medium",
+      "reason": "Canonical pack-bearing notice from procedure summary"
+    },
+    {
+      "targetMolecule": "Paliperidone",
+      "procedureKey": "LIS2301D",
+      "canonicalNoticeId": "682047-2022",
+      "awardNoticeId": NaN,
+      "priority": "medium",
+      "reason": "Canonical pack-bearing notice from procedure summary"
+    },
+    {
+      "targetMolecule": "Axitinib",
+      "procedureKey": "2021/1727",
+      "canonicalNoticeId": "196990-2022",
+      "priority": "high",
+      "reason": "Oncology umbrella tender; Axitinib confirmation requires Virkestoffliste/Prisskjema"
+    }
+  ]
+}

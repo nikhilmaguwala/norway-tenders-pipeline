@@ -1,0 +1,23 @@
+molecule,strength,packRows,observedVolume,volumeShareWithinMolecule,cumulativeVolumeShare,suppliers,maxPriceCoveragePct,weightedReferenceMaxPrice
+Anagrelide,0.5 mg,6,,,,3,50.0,
+Axitinib,5 mg,1,634.0,0.5396,0.5396,1,100.0,32845.79
+Axitinib,3 mg,1,316.0,0.2689,0.8085,1,100.0,21849.42
+Axitinib,1 mg,1,179.0,0.1523,0.9609,1,100.0,6573.91
+Axitinib,7 mg,1,46.0,0.0391,1.0,1,100.0,46409.29
+Everolimus,0.1 mg,1,,,,1,100.0,
+Everolimus,0.25 mg,2,,,,1,100.0,
+Everolimus,0.5 mg,1,,,,1,100.0,
+Everolimus,0.75 mg,1,,,,1,100.0,
+Everolimus,1 mg,1,,,,1,100.0,
+Lenalidomide,10 mg,1,2106.0,0.293,0.293,1,0.0,
+Lenalidomide,25 mg,1,2069.0,0.2878,0.5808,1,0.0,
+Lenalidomide,15 mg,1,1881.0,0.2617,0.8425,1,0.0,
+Lenalidomide,5 mg,1,485.0,0.0675,0.91,1,0.0,
+Lenalidomide,20 mg,1,330.0,0.0459,0.9559,1,0.0,
+Lenalidomide,7.5 mg,1,261.0,0.0363,0.9922,1,0.0,
+Lenalidomide,2.5 mg,1,56.0,0.0078,1.0,1,0.0,
+Paliperidone,100 mg,4,3225.0,0.3648,0.3648,3,75.0,1967.77
+Paliperidone,150 mg,5,2891.0,0.327,0.6918,4,80.0,2749.81
+Paliperidone,75 mg,4,1821.0,0.206,0.8977,3,75.0,1582.91
+Paliperidone,50 mg,3,854.0,0.0966,0.9943,3,100.0,1237.43
+Paliperidone,25 mg,2,50.0,0.0057,1.0,0,0.0,

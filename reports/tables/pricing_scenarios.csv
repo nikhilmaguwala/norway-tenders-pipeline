@@ -1,0 +1,133 @@
+recordType,molecule,noticeId,itemNumber,productName,scenarioName,discountPct,referenceGrossValue,scenarioUnitPrice,scenarioGrossValue,priceSource,maxPriceEffectiveDate,warning
+molecule_summary,Anagrelide,,,,reference_at_max_aip,0,0.0,,,mixed,2026-08-03,
+molecule_summary,Anagrelide,,,,discount_5pct,5,,,,mixed,2026-08-03,
+molecule_summary,Anagrelide,,,,discount_10pct,10,,,,mixed,2026-08-03,
+molecule_summary,Anagrelide,,,,discount_20pct,20,,,,mixed,2026-08-03,
+molecule_summary,Anagrelide,,,,discount_30pct,30,,,,mixed,2026-08-03,
+molecule_summary,Anagrelide,,,,discount_40pct,40,,,,mixed,2026-08-03,
+molecule_summary,Axitinib,,,,reference_at_max_aip,0,31040204.81,,31040204.81,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Axitinib,,,,discount_5pct,5,,,29488194.569499996,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Axitinib,,,,discount_10pct,10,,,27936184.329,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Axitinib,,,,discount_20pct,20,,,24832163.848,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Axitinib,,,,discount_30pct,30,,,21728143.367,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Axitinib,,,,discount_40pct,40,,,18624122.886,mixed,2026-08-03,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,reference_at_max_aip,0,1176729.89,6573.91,1176729.89,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,discount_5pct,5,,6245.21,1117893.3954999999,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,discount_10pct,10,,5916.52,1059056.9009999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,discount_20pct,20,,5259.13,941383.912,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,discount_30pct,30,,4601.74,823710.9229999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,103854,Inlyta tab 1mg,discount_40pct,40,,3944.35,706037.9339999999,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,reference_at_max_aip,0,6904416.72,21849.42,6904416.72,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,discount_5pct,5,,20756.95,6559195.884,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,discount_10pct,10,,19664.48,6213975.0479999995,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,discount_20pct,20,,17479.54,5523533.376,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,discount_30pct,30,,15294.59,4833091.704,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,39471,Inlyta tab 3mg,discount_40pct,40,,13109.65,4142650.0319999997,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,reference_at_max_aip,0,20824230.86,32845.79,20824230.86,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,discount_5pct,5,,31203.5,19783019.316999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,discount_10pct,10,,29561.21,18741807.774,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,discount_20pct,20,,26276.63,16659384.688000001,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,discount_30pct,30,,22992.05,14576961.601999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,599010,Inlyta tab 5mg,discount_40pct,40,,19707.47,12494538.515999999,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,reference_at_max_aip,0,2134827.34,46409.29,2134827.34,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,discount_5pct,5,,44088.83,2028085.9729999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,discount_10pct,10,,41768.36,1921344.606,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,discount_20pct,20,,37127.43,1707861.872,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,discount_30pct,30,,32486.5,1494379.1379999998,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+pack_row,Axitinib,196990-2022,147794,Inlyta tab 7mg,discount_40pct,40,,27845.57,1280896.4039999999,dmp_current_reference,2026-08-03,DMP maximum AIP effective 2026-08-03 is a current-reference enrichment; not tender-time maximum price for historical procedures.
+molecule_summary,Everolimus,,,,reference_at_max_aip,0,0.0,,,tender_document,,
+molecule_summary,Everolimus,,,,discount_5pct,5,,,,tender_document,,
+molecule_summary,Everolimus,,,,discount_10pct,10,,,,tender_document,,
+molecule_summary,Everolimus,,,,discount_20pct,20,,,,tender_document,,
+molecule_summary,Everolimus,,,,discount_30pct,30,,,,tender_document,,
+molecule_summary,Everolimus,,,,discount_40pct,40,,,,tender_document,,
+molecule_summary,Lenalidomide,,,,reference_at_max_aip,0,0.0,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Lenalidomide,,,,discount_5pct,5,,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Lenalidomide,,,,discount_10pct,10,,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Lenalidomide,,,,discount_20pct,20,,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Lenalidomide,,,,discount_30pct,30,,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Lenalidomide,,,,discount_40pct,40,,,,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,reference_at_max_aip,0,17482278.240000002,,17482278.240000002,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,discount_5pct,5,,,16608164.328000002,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,discount_10pct,10,,,15734050.416000003,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,discount_20pct,20,,,13985822.592000002,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,discount_30pct,30,,,12237594.768000001,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+molecule_summary,Paliperidone,,,,discount_40pct,40,,,10489366.944,tender_document,,Mixed volume periods: calendar-year proxy vs explicit last-12-months where documented.
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,reference_at_max_aip,0,490022.28,1237.43,490022.28,tender_document,,
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,discount_5pct,5,,1175.56,465521.166,tender_document,,
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,discount_10pct,10,,1113.69,441020.052,tender_document,,
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,discount_20pct,20,,989.94,392017.824,tender_document,,
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,discount_30pct,30,,866.2,343015.596,tender_document,,
+pack_row,Paliperidone,434619-2026,480609,Palmeux depotinj  50mg/spr,discount_40pct,40,,742.46,294013.368,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,reference_at_max_aip,0,1725371.9000000001,1582.91,1725371.9000000001,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,discount_5pct,5,,1503.76,1639103.3050000002,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,discount_10pct,10,,1424.62,1552834.7100000002,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,discount_20pct,20,,1266.33,1380297.5200000003,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,discount_30pct,30,,1108.04,1207760.33,tender_document,,
+pack_row,Paliperidone,434619-2026,379151,Palmeux depotinj  75mg/spr,discount_40pct,40,,949.75,1035223.14,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,reference_at_max_aip,0,3990637.56,1967.77,3990637.56,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,discount_5pct,5,,1869.38,3791105.682,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,discount_10pct,10,,1770.99,3591573.804,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,discount_20pct,20,,1574.22,3192510.0480000004,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,discount_30pct,30,,1377.44,2793446.292,tender_document,,
+pack_row,Paliperidone,434619-2026,556066,Palmeux depotinj 100mg/spr,discount_40pct,40,,1180.66,2394382.536,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,reference_at_max_aip,0,4152213.1,2749.81,4152213.1,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,discount_5pct,5,,2612.32,3944602.445,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,discount_10pct,10,,2474.83,3736991.79,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,discount_20pct,20,,2199.85,3321770.4800000004,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,discount_30pct,30,,1924.87,2906549.17,tender_document,,
+pack_row,Paliperidone,434619-2026,122031,Palmeux depotinj 150mg/spr,discount_40pct,40,,1649.89,2491327.86,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,reference_at_max_aip,0,566742.9400000001,1237.43,566742.9400000001,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,discount_5pct,5,,1175.56,538405.7930000001,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,discount_10pct,10,,1113.69,510068.64600000007,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,discount_20pct,20,,989.94,453394.3520000001,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,discount_30pct,30,,866.2,396720.058,tender_document,,
+pack_row,Paliperidone,434619-2026,58609,Xeplion depotinj  50mg/spr,discount_40pct,40,,742.46,340045.764,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,reference_at_max_aip,0,1039971.8700000001,1582.91,1039971.8700000001,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,discount_5pct,5,,1503.76,987973.2765,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,discount_10pct,10,,1424.62,935974.6830000001,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,discount_20pct,20,,1266.33,831977.4960000002,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,discount_30pct,30,,1108.04,727980.309,tender_document,,
+pack_row,Paliperidone,434619-2026,412581,Xeplion depotinj  75mg/spr,discount_40pct,40,,949.75,623983.1220000001,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,reference_at_max_aip,0,1719830.98,1967.77,1719830.98,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,discount_5pct,5,,1869.38,1633839.4309999999,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,discount_10pct,10,,1770.99,1547847.882,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,discount_20pct,20,,1574.22,1375864.784,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,discount_30pct,30,,1377.44,1203881.686,tender_document,,
+pack_row,Paliperidone,434619-2026,409745,Xeplion depotinj 100mg/spr,discount_40pct,40,,1180.66,1031898.588,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,reference_at_max_aip,0,3797487.61,2749.81,3797487.61,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,discount_5pct,5,,2612.32,3607613.2295,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,discount_10pct,10,,2474.83,3417738.849,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,discount_20pct,20,,2199.85,3037990.088,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,discount_30pct,30,,1924.87,2658241.3269999996,tender_document,,
+pack_row,Paliperidone,434619-2026,536460,Xeplion depotinj 150mg/spr,discount_40pct,40,,1649.89,2278492.5659999996,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,reference_at_max_aip,0,0.0,2749.81,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,discount_5pct,5,,2612.32,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,discount_10pct,10,,2474.83,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,discount_20pct,20,,2199.85,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,discount_30pct,30,,1924.87,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,445725,Xeplion ori depotinj 150mg/spr,discount_40pct,40,,1649.89,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,reference_at_max_aip,0,0.0,1237.43,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,discount_5pct,5,,1175.56,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,discount_10pct,10,,1113.69,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,discount_20pct,20,,989.94,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,discount_30pct,30,,866.2,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,536742,Paliperidon zen depinj  50mg,discount_40pct,40,,742.46,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,reference_at_max_aip,0,0.0,1582.91,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,discount_5pct,5,,1503.76,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,discount_10pct,10,,1424.62,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,discount_20pct,20,,1266.33,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,discount_30pct,30,,1108.04,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,549759,Paliperidon zen depinj  75mg,discount_40pct,40,,949.75,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,reference_at_max_aip,0,0.0,1967.77,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,discount_5pct,5,,1869.38,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,discount_10pct,10,,1770.99,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,discount_20pct,20,,1574.22,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,discount_30pct,30,,1377.44,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,47538,Paliperidon zen depinj 100mg,discount_40pct,40,,1180.66,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,reference_at_max_aip,0,0.0,2749.81,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,discount_5pct,5,,2612.32,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,discount_10pct,10,,2474.83,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,discount_20pct,20,,2199.85,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,discount_30pct,30,,1924.87,0.0,tender_document,,
+pack_row,Paliperidone,434619-2026,392171,Paliperidon zen depinj 150mg,discount_40pct,40,,1649.89,0.0,tender_document,,

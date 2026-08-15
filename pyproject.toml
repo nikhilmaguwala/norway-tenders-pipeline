@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "norway-tenders"
+version = "0.1.0"
+description = "Norwegian pharmaceutical tender data pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "pydantic>=2.7",
+    "PyYAML>=6.0",
+    "tenacity>=8.3",
+    "matplotlib>=3.8",
+    "pypdf>=4.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.4"]
+
+[project.scripts]
+norway-tenders = "norway_tenders.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["golden: golden fixture tests requiring real LIS xlsx files"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

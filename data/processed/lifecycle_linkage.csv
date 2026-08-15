@@ -1,0 +1,7 @@
+procedureKey,canonicalNoticeId,relatedNoticeId,lifecycleStage,language,linkageEvidence,fieldsUsedForEnrichment,excludedFromPackOutput,reason
+LIS2234,300984-2021,48506-2021,prior_information,,Phase 4B lifecycle audit,,true,PIN; canonical pack source is 300984-2021 competition
+LIS2234,300984-2021,147880-2021,prior_information,,Phase 4B lifecycle audit,,true,PIN duplicate; do not multiply packs
+LIS2234,300984-2021,335380-2021,award,,Phase 4B lifecycle audit,awardedSupplier,true,Award notice; pack rows sourced from canonical competition documents only
+LIS2234B,300984-2021,335362-2021,revised_competition,,sources.csv LIS 2234b revised competition; local file not supplied,,true,Revised procurement LIS 2234b; not merged without identical pack-row evidence
+LIS2301D,682047-2022,434619-2026,later_procurement_cycle,,Phase 5C coverage expansion; distinct procurement families,,true,2601c rows use notice 434619-2026; do not merge into 682047-2022
+2601c,434619-2026,682047-2022,later_procurement_cycle,,Phase 5D local seed Paliperidone__2601c,,false,Distinct 2026 paliperidone competition; canonical pack source is 434619-2026

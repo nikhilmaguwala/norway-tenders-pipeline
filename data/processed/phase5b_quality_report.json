@@ -1,0 +1,343 @@
+{
+  "phase": "5D",
+  "accepted_pack_rows_by_molecule": {
+    "Axitinib": 4,
+    "Lenalidomide": 7,
+    "Everolimus": 6,
+    "Anagrelide": 6,
+    "Paliperidone": 18
+  },
+  "rejected_rows_by_workbook": {
+    "Axitinib__LIS_2207_Oncology/LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx": 192,
+    "Everolimus__2632a/2632a Bilag 2 Prisskjema.xlsx": 4,
+    "Paliperidone__LIS_2301d/2301d Vedlegg 03 Prisskjema legem versj1.xlsx": 615
+  },
+  "detection_method_counts": {
+    "atc_in_document": 4,
+    "name_in_document": 37
+  },
+  "name_detected_count": 37,
+  "atc_only_count": 4,
+  "unique_items_by_molecule": {
+    "Axitinib": [
+      "103854",
+      "147794",
+      "39471",
+      "599010"
+    ],
+    "Lenalidomide": [
+      "467375",
+      "540958",
+      "64016",
+      "96488",
+      "96497",
+      "96506",
+      "96515"
+    ],
+    "Everolimus": [
+      "14847",
+      "14853",
+      "14859",
+      "14884",
+      "14917",
+      "14946"
+    ],
+    "Anagrelide": [
+      "110090",
+      "191597",
+      "21999",
+      "290239",
+      "39496",
+      "560023"
+    ],
+    "Paliperidone": [
+      "122031",
+      "214209",
+      "220132",
+      "307903",
+      "343892",
+      "362150",
+      "379151",
+      "392171",
+      "409745",
+      "412581",
+      "445725",
+      "47538",
+      "480609",
+      "536460",
+      "536742",
+      "549759",
+      "556066",
+      "58609"
+    ]
+  },
+  "unique_strengths_by_molecule": {
+    "Axitinib": [
+      "1 mg",
+      "3 mg",
+      "5 mg",
+      "7 mg"
+    ],
+    "Lenalidomide": [
+      "10 mg",
+      "15 mg",
+      "2.5 mg",
+      "20 mg",
+      "25 mg",
+      "5 mg",
+      "7.5 mg"
+    ],
+    "Everolimus": [
+      "0.1 mg",
+      "0.25 mg",
+      "0.5 mg",
+      "0.75 mg",
+      "1 mg"
+    ],
+    "Anagrelide": [
+      "0.5 mg"
+    ],
+    "Paliperidone": [
+      "100 mg",
+      "150 mg",
+      "25 mg",
+      "50 mg",
+      "75 mg"
+    ]
+  },
+  "unique_suppliers_by_molecule": {
+    "Axitinib": [
+      "Pfizer Norge AS"
+    ],
+    "Lenalidomide": [
+      "Celgene AS"
+    ],
+    "Everolimus": [
+      "Novartis Norge AS"
+    ],
+    "Anagrelide": [
+      "Bluefish Pharmaceuticals AB",
+      "Sandoz A/S",
+      "Takeda AS"
+    ],
+    "Paliperidone": [
+      "#N/A",
+      "Amdipharm Limited",
+      "Grossister vgr 6",
+      "Janssen-Cilag AS",
+      "Orifarm AS",
+      "Zentiva Denmark ApS"
+    ]
+  },
+  "volume_totals_by_molecule": {
+    "Axitinib": 1175.0,
+    "Lenalidomide": 7188.0,
+    "Everolimus": 8085.0,
+    "Anagrelide": 2322.0,
+    "Paliperidone": 8841.0
+  },
+  "volume_period_labels_by_molecule": {
+    "Axitinib": [
+      "PAKNINGER 2021"
+    ],
+    "Lenalidomide": [
+      "PAKNINGER 2020"
+    ],
+    "Everolimus": [
+      "Pakningssalg"
+    ],
+    "Anagrelide": [
+      "Pakningssalg"
+    ],
+    "Paliperidone": [
+      "PAKNINGER 2021",
+      "Pakningssalg"
+    ]
+  },
+  "max_price_coverage_by_molecule": {
+    "Everolimus": 6,
+    "Paliperidone": 13
+  },
+  "estimated_value_coverage": 0,
+  "awarded_value_coverage": 0,
+  "missingness_percent": {
+    "maxPrice": 53.7,
+    "estimatedValue": 100.0
+  },
+  "duplicate_keys_removed": 0,
+  "lifecycle_records_excluded": 6,
+  "value_allocation_warnings": [
+    "Paliperidone notice total NOK 14,671,946 not allocated to molecule rows",
+    "LIS 2207 umbrella estimated value NOK 3.2bn not allocated to Axitinib pack rows",
+    "Offered GIP never mapped to maxPrice",
+    "Everolimus 2632a excludes mycophenolic acid L04AA06 rows",
+    "LIS 2301d prisskjema filtered to N05AX13 / paliperidon only",
+    "2601c paliperidone (434619-2026) is distinct from LIS 2301d; repeated products retained across procedures"
+  ],
+  "preview_row_count": 41,
+  "within_40_120_rows": true,
+  "below_40_explanation": "",
+  "representative_preview_rows": [
+    {
+      "noticeId": "196990-2022",
+      "tenderRef": "2021/1727",
+      "title": "LIS 2207 Oncology",
+      "country": "NO",
+      "buyer": "SYKEHUSINNKJ\u00d8P HF",
+      "productMolecule": "Axitinib",
+      "moleculeDetected": false,
+      "moleculeVariant": "",
+      "detectionMethod": "atc_in_document",
+      "atcCode": "L01EK01",
+      "itemNumber": "103854",
+      "productName": "Inlyta tab 1mg",
+      "strength": "1 mg",
+      "packSize": 56,
+      "supplier": "Pfizer Norge AS",
+      "maxPrice": null,
+      "packsSoldLast12m": 179,
+      "estimatedValue": null,
+      "awardedValue": null,
+      "awardedSupplier": "",
+      "currency": "NOK",
+      "noticeType": "3",
+      "status": "",
+      "publicationDate": "2022-04-13",
+      "contractStart": "2022-12-01",
+      "procedureType": "1",
+      "sourceDocument": "LIS 2207 - Vedlegg 03 Prisskjema v 2.xlsx",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/196990-2022"
+    },
+    {
+      "noticeId": "682047-2022",
+      "tenderRef": "2022/227",
+      "title": "Voluntary ex-ante transparency notice - Supplementary contracts for LIS 2301d ureg, ATC codes J05AF01, N05AX13, N05CD08, P01CX04, S01AX18, S01EE09 and V03AB13",
+      "country": "NO",
+      "buyer": "SYKEHUSINNKJ\u00d8P HF",
+      "productMolecule": "Paliperidone",
+      "moleculeDetected": true,
+      "moleculeVariant": "Paliperidon",
+      "detectionMethod": "name_in_document",
+      "atcCode": "N05AX13",
+      "itemNumber": "214209",
+      "productName": "Xeplion Depotinjeksjonsv\u00e6ske, suspensjon 25 mg/spr\u00f8yte",
+      "strength": "25 mg",
+      "packSize": null,
+      "supplier": "Grossister vgr 6",
+      "maxPrice": null,
+      "packsSoldLast12m": 50,
+      "estimatedValue": null,
+      "awardedValue": null,
+      "awardedSupplier": "",
+      "currency": "NOK",
+      "noticeType": "V",
+      "status": "",
+      "publicationDate": "2022-12-08",
+      "contractStart": "",
+      "procedureType": "V",
+      "sourceDocument": "2301d Vedlegg 03 Prisskjema legem versj1.xlsx",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/682047-2022"
+    },
+    {
+      "noticeId": "300984-2021",
+      "tenderRef": "LIS 2234",
+      "title": "LIS 2234 Lenalidomide",
+      "country": "NO",
+      "buyer": "Sykehusinnkj\u00f8p HF",
+      "productMolecule": "Lenalidomide",
+      "moleculeDetected": true,
+      "moleculeVariant": "Lenalidomid",
+      "detectionMethod": "name_in_document",
+      "atcCode": "L04AX04",
+      "itemNumber": "64016",
+      "productName": "Revlimid kaps 20mg",
+      "strength": "20 mg",
+      "packSize": 21,
+      "supplier": "Celgene AS",
+      "maxPrice": null,
+      "packsSoldLast12m": 330,
+      "estimatedValue": null,
+      "awardedValue": null,
+      "awardedSupplier": "",
+      "currency": "NOK",
+      "noticeType": "3",
+      "status": "",
+      "publicationDate": "2021-06-15",
+      "contractStart": "2022-03-01",
+      "procedureType": "1",
+      "sourceDocument": "LIS 2234 Vedlegg 03 Prisskjema.xlsx",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021"
+    },
+    {
+      "noticeId": "404973-2025",
+      "tenderRef": "2025/50837",
+      "title": "2632a Everolimus og mykofenolsyre (enterotablett)",
+      "country": "NO",
+      "buyer": "Sykehusinnkj\u00f8p HF",
+      "productMolecule": "Everolimus",
+      "moleculeDetected": true,
+      "moleculeVariant": "Everolimus",
+      "detectionMethod": "name_in_document",
+      "atcCode": "L04AH02",
+      "itemNumber": "14884",
+      "productName": "Certican disperg tab 0,1mg",
+      "strength": "0.1 mg",
+      "packSize": 60,
+      "supplier": "Novartis Norge AS",
+      "maxPrice": 492.07,
+      "packsSoldLast12m": 25,
+      "estimatedValue": null,
+      "awardedValue": null,
+      "awardedSupplier": "",
+      "currency": "NOK",
+      "noticeType": "cn-standard",
+      "status": "",
+      "publicationDate": "",
+      "contractStart": "2026-03-31",
+      "procedureType": "",
+      "sourceDocument": "2632a Bilag 2 Prisskjema.xlsx",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/404973-2025"
+    },
+    {
+      "noticeId": "244859-2024",
+      "tenderRef": "2507gj-1",
+      "title": "2507gj-1 anagrelid",
+      "country": "NO",
+      "buyer": "Sykehusinnkj\u00f8p HF",
+      "productMolecule": "Anagrelide",
+      "moleculeDetected": true,
+      "moleculeVariant": "Anagrelide",
+      "detectionMethod": "name_in_document",
+      "atcCode": "L01XX35",
+      "itemNumber": "560023",
+      "productName": "Anagrelide bluefish kaps 0,5mg",
+      "strength": "0.5 mg",
+      "packSize": 100,
+      "supplier": "Bluefish Pharmaceuticals AB",
+      "maxPrice": null,
+      "packsSoldLast12m": 0,
+      "estimatedValue": null,
+      "awardedValue": null,
+      "awardedSupplier": "",
+      "currency": "NOK",
+      "noticeType": "cn-standard",
+      "status": "",
+      "publicationDate": "",
+      "contractStart": "2025-04-01",
+      "procedureType": "",
+      "sourceDocument": "2507gj-1 Bilag 2 Prisskjema.xlsx",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/244859-2024"
+    }
+  ],
+  "issues_requiring_human_decision": [
+    "Axitinib confirmed by ATC L01EK01 + Inlyta brand only; no INN name in source rows",
+    "Paliperidone awardedSupplier left blank; Nordic Pill AB documented at notice level only",
+    "Anagrelide Xagrid brand rows excluded (brand-only without ATC/name)",
+    "Volume fields use calendar-year PAKNINGER YYYY proxy, not verified 12-month rolling period",
+    "Everolimus maxPrice present but mycophenolic acid rows excluded by design"
+  ],
+  "validation": {
+    "errors": [],
+    "passed": true
+  }
+}

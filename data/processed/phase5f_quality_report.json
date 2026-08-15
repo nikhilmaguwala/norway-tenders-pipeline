@@ -1,0 +1,39 @@
+{
+  "phase": "5F",
+  "dmp_directory_correction": {
+    "directory": "DMP_Maximum_Prices__2026-08-03",
+    "localFile": "DMP_Maximum_Prices__2026-08-03/legemiddelpriser-2026-08-03.xlsx",
+    "effectiveDate": "2026-08-03",
+    "sha256": "6b2fb878f149ee600940fd4361ccee276b1b2a6eb6f3a527e687bb771259216d",
+    "sha256_unchanged": true
+  },
+  "notice_level_aggregation_rule": "Notice-level fields (estimatedValue, awardedValue, awardedSupplier, status) may repeat identically across pack rows for the same noticeId. Analytics aggregating contract values must deduplicate by noticeId before summing estimatedValue or awardedValue.",
+  "accepted_estimates_by_notice": {
+    "300984-2021": 320000000.0,
+    "244859-2024": 10000000.0
+  },
+  "row_count": 41,
+  "rows_by_molecule": {
+    "Axitinib": 4,
+    "Lenalidomide": 7,
+    "Everolimus": 6,
+    "Anagrelide": 6,
+    "Paliperidone": 18
+  },
+  "missingness": {
+    "estimatedValue": 28,
+    "awardedValue": 41,
+    "awardedSupplier": 41
+  },
+  "missingness_percent": {
+    "estimatedValue": 68.3,
+    "awardedValue": 100.0,
+    "awardedSupplier": 100.0
+  },
+  "output_sha256": "f28dd9a3e2ebb90ac60322886236619ed34feae62d34cb6cb712f9082e845803",
+  "validation": {
+    "errors": [],
+    "passed": true,
+    "stats": {}
+  }
+}

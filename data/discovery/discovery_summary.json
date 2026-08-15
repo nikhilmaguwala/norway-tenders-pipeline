@@ -1,0 +1,284 @@
+{
+  "queries_by_molecule": {
+    "Axitinib": 5,
+    "Everolimus": 5,
+    "Lenalidomide": 16,
+    "Anagrelide": 6,
+    "Paliperidone": 5
+  },
+  "candidates_by_molecule": {
+    "Everolimus": 7,
+    "Lenalidomide": 43,
+    "Anagrelide": 4,
+    "Paliperidone": 10
+  },
+  "decision_counts": {
+    "accepted": 45,
+    "rejected": 4,
+    "login_wall": 15
+  },
+  "errors": [],
+  "lis2234_notice_ids": [
+    "147880-2021",
+    "300984-2021",
+    "335362-2021",
+    "335380-2021",
+    "48506-2021"
+  ],
+  "lis2234_identification": "TED notice 300984-2021 identified via seed crosswalk (sources.csv) and cached TED XML title 'LIS 2234 Lenalidomide'; competition notice cn-standard published 2021-06-15 by Sykehusinnkjøp HF",
+  "lis2234_urls": [
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335362-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335362-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335362-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335362-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335362-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335362-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335362-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335362-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "335380-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335380-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "147880-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/147880-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "48506-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/48506-2021",
+      "documentUrls": "",
+      "proposedDecision": "accepted"
+    },
+    {
+      "noticeId": "300984-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/300984-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=158259205&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259201&version=0;https://www.mercell.com/m/file/GetFile.ashx?id=158259190&version=0",
+      "proposedDecision": "login_wall"
+    },
+    {
+      "noticeId": "335362-2021",
+      "noticeUrl": "https://ted.europa.eu/en/notice/-/detail/335362-2021",
+      "documentUrls": "https://www.mercell.com/m/file/GetFile.ashx?id=159475531&version=0",
+      "proposedDecision": "login_wall"
+    }
+  ],
+  "total_candidates": 64
+}

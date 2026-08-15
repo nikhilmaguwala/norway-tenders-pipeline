@@ -1,0 +1,31 @@
+noticeId,tenderRef,productMolecule,field,currentValue,evidenceValue,sourceDocument,sourceLocation,mappingDecision,rejectionReason
+196990-2022,2021/1727,Axitinib,noticeType,3,3,196990-2022.xml,noticeType,accepted,
+196990-2022,2021/1727,Axitinib,status,,,196990-2022.xml,status,blank,No explicit evidence or conservative blank policy
+196990-2022,2021/1727,Axitinib,publicationDate,2022-04-13,2022-04-13,196990-2022.xml,publicationDate,accepted,
+196990-2022,2021/1727,Axitinib,contractStart,2022-12-01,2022-12-01,196990-2022.xml,contractStart,accepted,
+196990-2022,2021/1727,Axitinib,procedureType,1,1,196990-2022.xml,procedureType,accepted,
+300984-2021,LIS 2234,Lenalidomide,noticeType,3,3,300984-2021.xml,noticeType,accepted,
+300984-2021,LIS 2234,Lenalidomide,status,,,300984-2021.xml,status,blank,No explicit evidence or conservative blank policy
+300984-2021,LIS 2234,Lenalidomide,publicationDate,2021-06-15,2021-06-15,300984-2021.xml,publicationDate,accepted,
+300984-2021,LIS 2234,Lenalidomide,contractStart,2022-03-01,2022-03-01,300984-2021.xml,contractStart,accepted,
+300984-2021,LIS 2234,Lenalidomide,procedureType,1,1,300984-2021.xml,procedureType,accepted,
+404973-2025,2025/50837,Everolimus,noticeType,cn-standard,cn-standard,404973-2025.xml,noticeType,accepted,
+404973-2025,2025/50837,Everolimus,status,,,404973-2025.xml,status,blank,No explicit evidence or conservative blank policy
+404973-2025,2025/50837,Everolimus,publicationDate,,2025-06-24,404973-2025.xml,publicationDate,accepted,
+404973-2025,2025/50837,Everolimus,contractStart,2026-03-31,2026-03-31,404973-2025.xml,contractStart,accepted,
+404973-2025,2025/50837,Everolimus,procedureType,,open,404973-2025.xml,procedureType,accepted,
+244859-2024,2507gj-1,Anagrelide,noticeType,cn-standard,cn-standard,244859-2024.xml,noticeType,accepted,
+244859-2024,2507gj-1,Anagrelide,status,,,244859-2024.xml,status,blank,No explicit evidence or conservative blank policy
+244859-2024,2507gj-1,Anagrelide,publicationDate,,2024-04-24,244859-2024.xml,publicationDate,accepted,
+244859-2024,2507gj-1,Anagrelide,contractStart,2025-04-01,2025-04-01,244859-2024.xml,contractStart,accepted,
+244859-2024,2507gj-1,Anagrelide,procedureType,,open,244859-2024.xml,procedureType,accepted,
+682047-2022,2022/227,Paliperidone,noticeType,V,V,682047-2022.xml,noticeType,accepted,
+682047-2022,2022/227,Paliperidone,status,,,682047-2022.xml,status,blank,No explicit evidence or conservative blank policy
+682047-2022,2022/227,Paliperidone,publicationDate,2022-12-08,2022-12-08,682047-2022.xml,publicationDate,accepted,
+682047-2022,2022/227,Paliperidone,contractStart,,,682047-2022.xml,contractStart,blank,No explicit evidence or conservative blank policy
+682047-2022,2022/227,Paliperidone,procedureType,V,V,682047-2022.xml,procedureType,accepted,
+434619-2026,2601c,Paliperidone,noticeType,cn-standard,cn-standard,434619-2026.xml,noticeType,accepted,
+434619-2026,2601c,Paliperidone,status,,open,434619-2026.xml,status,accepted,
+434619-2026,2601c,Paliperidone,publicationDate,,2026-06-25,434619-2026.xml,publicationDate,accepted,
+434619-2026,2601c,Paliperidone,contractStart,2026-11-01,2026-11-01,434619-2026.xml,contractStart,accepted,
+434619-2026,2601c,Paliperidone,procedureType,,open,434619-2026.xml,procedureType,accepted,
